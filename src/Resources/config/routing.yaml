@@ -1,9 +1,9 @@
 routing-api:
   prefix: '/api'
-  resource: 'routingApi/'
+  resource: 'routes/routingApi/'
   type: directory
 
 routing-views:
   prefix: '/'
-  resource: 'routingViews/'
+  resource: 'routes/routingViews/'
   type: directory
